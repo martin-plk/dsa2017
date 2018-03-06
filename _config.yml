@@ -23,6 +23,27 @@ previous:
     <div>June 27<sup>th</sup>  - July 1<sup>st</sup> 2016</div>
     <div>Kampala, Uganda</div>
 
+next:
+  url: /dsa2018/
+  text: |
+    <div class="" style="
+                        font-weight: bold; 
+                        font-size: 18px;
+ 
+                        ">Kenya: Data Science Africa 2018</div>
+    <div>June 04<sup>th</sup>  - June 08<sup>st</sup> 2018</div>
+    <div>Nyeri, Kenya</div>
+ 
+next2:
+  url: /dsa2018/abuja/
+  text: |
+    <div class="" style="
+                        font-weight: bold; 
+                        font-size: 18px;
+ 
+                        ">Nigeria: Data Science Africa 2018</div>
+    <div>November 12<sup>th</sup>  - November 16<sup>st</sup> 2018</div>
+    <div>Abuja, Nigeria</div>
 
 social:
   title: Social Event
